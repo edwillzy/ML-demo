@@ -10,3 +10,6 @@ dependencies:
     - ipykernel
     - scipy
     - scikit-learn
+    - spacy
+    - scikit-learn
+    - thinc
