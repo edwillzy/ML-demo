@@ -1,4 +1,4 @@
-PS C:\Users\edwil\Desktop\100kDataResult (M=8, K=5, N=10)> python .\user.py
+python .\user.py
 Func loadData, run time: 0.14713501930236816
 Func splitData, run time: 0.18488192558288574
 Experiment 0:
@@ -244,4 +244,3 @@ Metric: {'Precision': 23.3, 'Recall': 17.37, 'Coverage': 10.94, 'Popularity': 5.
 Func worker, run time: 7.482672214508057
 Average Result (M=8, K=160, N=10): {'Precision': 23.1175, 'Recall': 17.236250000000002, 'Coverage': 11.174999999999999, 'Popularity': 5.652731375}
 Func run, run time: 61.55587720870972
-PS C:\Users\edwil\Desktop\100kDataResult (M=8, K=5, N=10)>
