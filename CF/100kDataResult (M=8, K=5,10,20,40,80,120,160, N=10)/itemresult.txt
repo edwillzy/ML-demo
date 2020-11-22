@@ -1,0 +1,14 @@
+k = [5,10,20,40,80,120,160]
+
+Average Result (M=8, K=5, N=10): {'Precision': 21.5675, 'Recall': 16.07875, 'Coverage': 20.555000000000003, 'Popularity': 5.4844}
+Average Result (M=8, K=10, N=10): {'Precision': 22.028749999999995, 'Recall': 16.4225, 'Coverage': 15.99625, 'Popularity': 5.57166475}
+Average Result (M=8, K=20, N=10): {'Precision': 21.87875, 'Recall': 16.3125, 'Coverage': 13.016250000000001, 'Popularity': 5.589162125}
+Average Result (M=8, K=40, N=10): {'Precision': 20.99875, 'Recall': 15.657500000000002, 'Coverage': 11.707500000000001, 'Popularity': 5.5893253750000005}
+Average Result (M=8, K=80, N=10): {'Precision': 20.251250000000002, 'Recall': 15.10125, 'Coverage': 11.1225, 'Popularity': 5.596058375}
+Average Result (M=8, K=120, N=10): {'Precision': 20.30625, 'Recall': 15.14125, 'Coverage': 11.2725, 'Popularity': 5.595862125}
+Average Result (M=8, K=160, N=10): {'Precision': 20.45875, 'Recall': 15.25625, 'Coverage': 11.745000000000001, 'Popularity': 5.594104375000001}
+
+'Precision': 21.5675,22.0287,21.8787,20.9987,20.2512,20.3062,20.4587
+'Recall': 16.0787,16.4225,16.3125,15.6575,15.1012,15.1412,15.2562
+'Coverage': 20.5550,15.9962,13.0162,11.7075,11.1225,11.2725, 11.7450
+'Popularity': 5.4844,5.5716,5.5891,5.5893,5.5893,5.5960,5.5958,5.5941

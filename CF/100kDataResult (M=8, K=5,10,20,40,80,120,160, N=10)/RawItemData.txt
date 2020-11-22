@@ -1,0 +1,247 @@
+PS C:\Users\edwil\Desktop\100kDataResult (M=8, K=5, N=10)> python .\item.py
+Func loadData, run time: 0.1471390724182129
+Func splitData, run time: 0.20048904418945312
+Experiment 0:
+Metric: {'Precision': 22.33, 'Recall': 16.67, 'Coverage': 20.16, 'Popularity': 5.492913}
+Func worker, run time: 6.0693652629852295
+Func splitData, run time: 0.18497323989868164
+Experiment 1:
+Metric: {'Precision': 21.84, 'Recall': 16.19, 'Coverage': 20.71, 'Popularity': 5.495875}
+Func worker, run time: 6.548526287078857
+Func splitData, run time: 0.16928935050964355
+Experiment 2:
+Metric: {'Precision': 20.43, 'Recall': 15.23, 'Coverage': 21.01, 'Popularity': 5.475981}
+Func worker, run time: 6.533975601196289
+Func splitData, run time: 0.18484997749328613
+Experiment 3:
+Metric: {'Precision': 21.52, 'Recall': 16.0, 'Coverage': 20.59, 'Popularity': 5.480387}
+Func worker, run time: 6.379717826843262
+Func splitData, run time: 0.16922974586486816
+Experiment 4:
+Metric: {'Precision': 21.19, 'Recall': 16.0, 'Coverage': 20.34, 'Popularity': 5.490415}
+Func worker, run time: 6.021466493606567
+Func splitData, run time: 0.16517376899719238
+Experiment 5:
+Metric: {'Precision': 21.12, 'Recall': 15.92, 'Coverage': 19.99, 'Popularity': 5.479347}
+Func worker, run time: 6.000343561172485
+Func splitData, run time: 0.1693735122680664
+Experiment 6:
+Metric: {'Precision': 22.12, 'Recall': 16.22, 'Coverage': 21.27, 'Popularity': 5.490698}
+Func worker, run time: 5.971805572509766
+Func splitData, run time: 0.17163491249084473
+Experiment 7:
+Metric: {'Precision': 21.99, 'Recall': 16.4, 'Coverage': 20.37, 'Popularity': 5.469584}
+Func worker, run time: 6.049385070800781
+Average Result (M=8, K=5, N=10): {'Precision': 21.5675, 'Recall': 16.07875, 'Coverage': 20.555000000000003, 'Popularity': 5.4844}
+Func run, run time: 51.1779842376709
+Func loadData, run time: 0.14958572387695312
+Func splitData, run time: 0.18230628967285156
+Experiment 0:
+Metric: {'Precision': 22.38, 'Recall': 16.71, 'Coverage': 16.02, 'Popularity': 5.572073}
+Func worker, run time: 6.177795648574829
+Func splitData, run time: 0.18490338325500488
+Experiment 1:
+Metric: {'Precision': 22.27, 'Recall': 16.5, 'Coverage': 15.55, 'Popularity': 5.58019}
+Func worker, run time: 6.079379320144653
+Func splitData, run time: 0.16933631896972656
+Experiment 2:
+Metric: {'Precision': 21.38, 'Recall': 15.94, 'Coverage': 16.5, 'Popularity': 5.573184}
+Func worker, run time: 6.148641109466553
+Func splitData, run time: 0.18494176864624023
+Experiment 3:
+Metric: {'Precision': 22.02, 'Recall': 16.37, 'Coverage': 16.26, 'Popularity': 5.581462}
+Func worker, run time: 6.117635011672974
+Func splitData, run time: 0.18491554260253906
+Experiment 4:
+Metric: {'Precision': 21.46, 'Recall': 16.21, 'Coverage': 16.13, 'Popularity': 5.562072}
+Func worker, run time: 6.132936477661133
+Func splitData, run time: 0.1849370002746582
+Experiment 5:
+Metric: {'Precision': 21.73, 'Recall': 16.38, 'Coverage': 14.83, 'Popularity': 5.575749}
+Func worker, run time: 6.101830244064331
+Func splitData, run time: 0.1693253517150879
+Experiment 6:
+Metric: {'Precision': 22.54, 'Recall': 16.53, 'Coverage': 16.33, 'Popularity': 5.565795}
+Func worker, run time: 6.058602333068848
+Func splitData, run time: 0.17842388153076172
+Experiment 7:
+Metric: {'Precision': 22.45, 'Recall': 16.74, 'Coverage': 16.35, 'Popularity': 5.562793}
+Func worker, run time: 6.055174350738525
+Average Result (M=8, K=10, N=10): {'Precision': 22.028749999999995, 'Recall': 16.4225, 'Coverage': 15.99625, 'Popularity': 5.57166475}
+Func run, run time: 50.49375891685486
+Func loadData, run time: 0.1471560001373291
+Func splitData, run time: 0.16926145553588867
+Experiment 0:
+Metric: {'Precision': 22.32, 'Recall': 16.67, 'Coverage': 13.44, 'Popularity': 5.591072}
+Func worker, run time: 6.318019151687622
+Func splitData, run time: 0.18495535850524902
+Experiment 1:
+Metric: {'Precision': 21.99, 'Recall': 16.3, 'Coverage': 12.55, 'Popularity': 5.590982}
+Func worker, run time: 6.271508455276489
+Func splitData, run time: 0.17843222618103027
+Experiment 2:
+Metric: {'Precision': 21.14, 'Recall': 15.76, 'Coverage': 13.73, 'Popularity': 5.588698}
+Func worker, run time: 6.318039894104004
+Func splitData, run time: 0.16927218437194824
+Experiment 3:
+Metric: {'Precision': 22.06, 'Recall': 16.4, 'Coverage': 12.76, 'Popularity': 5.590869}
+Func worker, run time: 6.317721605300903
+Func splitData, run time: 0.16934776306152344
+Experiment 4:
+Metric: {'Precision': 21.26, 'Recall': 16.06, 'Coverage': 12.94, 'Popularity': 5.590227}
+Func worker, run time: 6.4642252922058105
+Func splitData, run time: 0.16936182975769043
+Experiment 5:
+Metric: {'Precision': 21.7, 'Recall': 16.35, 'Coverage': 12.48, 'Popularity': 5.593649}
+Func worker, run time: 6.317990064620972
+Func splitData, run time: 0.18500947952270508
+Experiment 6:
+Metric: {'Precision': 22.25, 'Recall': 16.32, 'Coverage': 13.37, 'Popularity': 5.581448}
+Func worker, run time: 6.280503273010254
+Func splitData, run time: 0.18492579460144043
+Experiment 7:
+Metric: {'Precision': 22.31, 'Recall': 16.64, 'Coverage': 12.86, 'Popularity': 5.586352}
+Func worker, run time: 6.349687337875366
+Average Result (M=8, K=20, N=10): {'Precision': 21.87875, 'Recall': 16.3125, 'Coverage': 13.016250000000001, 'Popularity': 5.589162125}
+Func run, run time: 52.195417165756226
+Func loadData, run time: 0.14713025093078613
+Func splitData, run time: 0.16936922073364258
+Experiment 0:
+Metric: {'Precision': 21.44, 'Recall': 16.01, 'Coverage': 11.76, 'Popularity': 5.591099}
+Func worker, run time: 6.80957818031311
+Func splitData, run time: 0.18494391441345215
+Experiment 1:
+Metric: {'Precision': 20.77, 'Recall': 15.4, 'Coverage': 11.34, 'Popularity': 5.594026}
+Func worker, run time: 6.766246557235718
+Func splitData, run time: 0.18503928184509277
+Experiment 2:
+Metric: {'Precision': 19.96, 'Recall': 14.88, 'Coverage': 12.16, 'Popularity': 5.588954}
+Func worker, run time: 6.765850305557251
+Func splitData, run time: 0.16942667961120605
+Experiment 3:
+Metric: {'Precision': 21.26, 'Recall': 15.81, 'Coverage': 11.5, 'Popularity': 5.588026}
+Func worker, run time: 6.75708270072937
+Func splitData, run time: 0.16282033920288086
+Experiment 4:
+Metric: {'Precision': 20.27, 'Recall': 15.31, 'Coverage': 11.67, 'Popularity': 5.585787}
+Func worker, run time: 6.787994623184204
+Func splitData, run time: 0.16933131217956543
+Experiment 5:
+Metric: {'Precision': 21.23, 'Recall': 16.0, 'Coverage': 11.76, 'Popularity': 5.593922}
+Func worker, run time: 6.934362173080444
+Func splitData, run time: 0.18497729301452637
+Experiment 6:
+Metric: {'Precision': 21.51, 'Recall': 15.78, 'Coverage': 11.99, 'Popularity': 5.582338}
+Func worker, run time: 6.765932559967041
+Func splitData, run time: 0.1692981719970703
+Experiment 7:
+Metric: {'Precision': 21.55, 'Recall': 16.07, 'Coverage': 11.48, 'Popularity': 5.590451}
+Func worker, run time: 6.750664472579956
+Average Result (M=8, K=40, N=10): {'Precision': 20.99875, 'Recall': 15.657500000000002, 'Coverage': 11.707500000000001, 'Popularity': 5.5893253750000005}
+Func run, run time: 55.958081007003784
+Func loadData, run time: 0.1380934715270996
+Func splitData, run time: 0.17841172218322754
+Experiment 0:
+Metric: {'Precision': 20.57, 'Recall': 15.36, 'Coverage': 11.28, 'Popularity': 5.591996}
+Func worker, run time: 7.743791341781616
+Func splitData, run time: 0.17338991165161133
+Experiment 1:
+Metric: {'Precision': 20.12, 'Recall': 14.91, 'Coverage': 10.74, 'Popularity': 5.604373}
+Func worker, run time: 7.725908994674683
+Func splitData, run time: 0.18308115005493164
+Experiment 2:
+Metric: {'Precision': 19.39, 'Recall': 14.46, 'Coverage': 11.08, 'Popularity': 5.600909}
+Func worker, run time: 7.727192163467407
+Func splitData, run time: 0.17844080924987793
+Experiment 3:
+Metric: {'Precision': 20.35, 'Recall': 15.14, 'Coverage': 10.78, 'Popularity': 5.595767}
+Func worker, run time: 7.706490755081177
+Func splitData, run time: 0.16934466361999512
+Experiment 4:
+Metric: {'Precision': 19.69, 'Recall': 14.87, 'Coverage': 11.31, 'Popularity': 5.592778}
+Func worker, run time: 7.724774599075317
+Func splitData, run time: 0.1733253002166748
+Experiment 5:
+Metric: {'Precision': 20.64, 'Recall': 15.56, 'Coverage': 11.1, 'Popularity': 5.600074}
+Func worker, run time: 7.662699937820435
+Func splitData, run time: 0.1693258285522461
+Experiment 6:
+Metric: {'Precision': 20.44, 'Recall': 14.99, 'Coverage': 11.39, 'Popularity': 5.586531}
+Func worker, run time: 7.637133359909058
+Func splitData, run time: 0.1627826690673828
+Experiment 7:
+Metric: {'Precision': 20.81, 'Recall': 15.52, 'Coverage': 11.3, 'Popularity': 5.596039}
+Func worker, run time: 7.719726324081421
+Average Result (M=8, K=80, N=10): {'Precision': 20.251250000000002, 'Recall': 15.10125, 'Coverage': 11.1225, 'Popularity': 5.596058375}
+Func run, run time: 63.19018054008484
+Func loadData, run time: 0.1416153907775879
+Func splitData, run time: 0.1692969799041748
+Experiment 0:
+Metric: {'Precision': 20.74, 'Recall': 15.49, 'Coverage': 11.34, 'Popularity': 5.591478}
+Func worker, run time: 8.597488641738892
+Func splitData, run time: 0.1746678352355957
+Experiment 1:
+Metric: {'Precision': 20.42, 'Recall': 15.13, 'Coverage': 10.62, 'Popularity': 5.60742}
+Func worker, run time: 8.58782958984375
+Func splitData, run time: 0.1760244369506836
+Experiment 2:
+Metric: {'Precision': 19.32, 'Recall': 14.41, 'Coverage': 11.38, 'Popularity': 5.600806}
+Func worker, run time: 8.60537838935852
+Func splitData, run time: 0.17324566841125488
+Experiment 3:
+Metric: {'Precision': 20.48, 'Recall': 15.23, 'Coverage': 11.38, 'Popularity': 5.594667}
+Func worker, run time: 8.54214859008789
+Func splitData, run time: 0.17841625213623047
+Experiment 4:
+Metric: {'Precision': 19.99, 'Recall': 15.1, 'Coverage': 10.83, 'Popularity': 5.58982}
+Func worker, run time: 8.63035249710083
+Func splitData, run time: 0.1691875457763672
+Experiment 5:
+Metric: {'Precision': 20.45, 'Recall': 15.41, 'Coverage': 11.46, 'Popularity': 5.602475}
+Func worker, run time: 8.701738119125366
+Func splitData, run time: 0.18495893478393555
+Experiment 6:
+Metric: {'Precision': 20.24, 'Recall': 14.84, 'Coverage': 11.87, 'Popularity': 5.586302}
+Func worker, run time: 8.492509603500366
+Func splitData, run time: 0.16922736167907715
+Experiment 7:
+Metric: {'Precision': 20.81, 'Recall': 15.52, 'Coverage': 11.3, 'Popularity': 5.593929}
+Func worker, run time: 8.56684923171997
+Average Result (M=8, K=120, N=10): {'Precision': 20.30625, 'Recall': 15.14125, 'Coverage': 11.2725, 'Popularity': 5.595862125}
+Func run, run time: 70.28939294815063
+Func loadData, run time: 0.14315319061279297
+Func splitData, run time: 0.17269539833068848
+Experiment 0:
+Metric: {'Precision': 21.03, 'Recall': 15.71, 'Coverage': 11.7, 'Popularity': 5.589737}
+Func worker, run time: 9.38330626487732
+Func splitData, run time: 0.18500304222106934
+Experiment 1:
+Metric: {'Precision': 20.58, 'Recall': 15.25, 'Coverage': 11.22, 'Popularity': 5.603725}
+Func worker, run time: 9.411183834075928
+Func splitData, run time: 0.17837047576904297
+Experiment 2:
+Metric: {'Precision': 19.54, 'Recall': 14.57, 'Coverage': 11.8, 'Popularity': 5.600079}
+Func worker, run time: 9.426200151443481
+Func splitData, run time: 0.17838263511657715
+Experiment 3:
+Metric: {'Precision': 20.66, 'Recall': 15.37, 'Coverage': 12.16, 'Popularity': 5.594608}
+Func worker, run time: 9.467351913452148
+Func splitData, run time: 0.19407153129577637
+Experiment 4:
+Metric: {'Precision': 19.82, 'Recall': 14.97, 'Coverage': 11.49, 'Popularity': 5.587392}
+Func worker, run time: 9.467602014541626
+Func splitData, run time: 0.18417787551879883
+Experiment 5:
+Metric: {'Precision': 20.55, 'Recall': 15.49, 'Coverage': 11.82, 'Popularity': 5.60071}
+Func worker, run time: 9.46803903579712
+Func splitData, run time: 0.1732957363128662
+Experiment 6:
+Metric: {'Precision': 20.45, 'Recall': 15.0, 'Coverage': 11.93, 'Popularity': 5.586123}
+Func worker, run time: 9.336658716201782
+Func splitData, run time: 0.17838168144226074
+Experiment 7:
+Metric: {'Precision': 21.04, 'Recall': 15.69, 'Coverage': 11.84, 'Popularity': 5.590461}
+Func worker, run time: 9.515392303466797
+Average Result (M=8, K=160, N=10): {'Precision': 20.45875, 'Recall': 15.25625, 'Coverage': 11.745000000000001, 'Popularity': 5.594104375000001}
+Func run, run time: 77.09403848648071
+PS C:\Users\edwil\Desktop\100kDataResult (M=8, K=5, N=10)>
