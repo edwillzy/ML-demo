@@ -1,0 +1,28 @@
+k = 5,10,20,40,80,120,160
+
+item
+Average Result (M=8, K=5, N=10): {'Precision': 21.284999999999997, 'Recall': 10.221250000000001, 'Coverage': 21.67, 'Popularity': 7.166664874999999}
+Average Result (M=8, K=10, N=10): {'Precision': 22.174999999999997, 'Recall': 10.646249999999998, 'Coverage': 19.10875, 'Popularity': 7.2495425}
+Average Result (M=8, K=20, N=10): {'Precision': 22.125, 'Recall': 10.6225, 'Coverage': 16.919999999999998, 'Popularity': 7.334663624999999}
+Average Result (M=8, K=40, N=10): {'Precision': 21.526249999999997, 'Recall': 10.335, 'Coverage': 15.48625, 'Popularity': 7.3892265}
+Average Result (M=8, K=80, N=10): {'Precision': 20.66125, 'Recall': 9.91875, 'Coverage': 13.66375, 'Popularity': 7.410553125}
+Average Result (M=8, K=120, N=10): {'Precision': 19.94125, 'Recall': 9.575, 'Coverage': 12.64875, 'Popularity': 7.3984375}
+Average Result (M=8, K=160, N=10): {'Precision': 19.415000000000003, 'Recall': 9.32125, 'Coverage': 12.088750000000001, 'Popularity': 7.38311275}
+
+'Precision': 21.28,22.17,22.13,21.53,20.66,19.94,19.42,
+'Recall': 10.22,10.65,10.62,10.34,9.92,9.58,9.32,
+'Coverage': 21.67,19.11,16.92,15.49,13.66,12.65,12.09,
+
+
+user
+Average Result (M=8, K=5, N=10): {'Precision': 16.8925, 'Recall': 8.11125, 'Coverage': 52.08624999999999, 'Popularity': 6.8192915}
+Average Result (M=8, K=10, N=10): {'Precision': 20.46125, 'Recall': 9.826250000000002, 'Coverage': 41.64375, 'Popularity': 6.979140375}
+Average Result (M=8, K=20, N=10): {'Precision': 22.99125, 'Recall': 11.037500000000001, 'Coverage': 32.7825, 'Popularity': 7.102363}
+Average Result (M=8, K=40, N=10): {'Precision': 24.53875, 'Recall': 11.783749999999998, 'Coverage': 25.886249999999997, 'Popularity': 7.20221475}
+Average Result (M=8, K=80, N=10): {'Precision': 25.10875, 'Recall': 12.056249999999999, 'Coverage': 20.25, 'Popularity': 7.288118125}
+Average Result (M=8, K=120, N=10): {'Precision': 25.043749999999996, 'Recall': 12.025000000000002, 'Coverage': 17.2625, 'Popularity': 7.3353677500000005}
+Average Result (M=8, K=160, N=10): {'Precision': 24.813750000000002, 'Recall': 11.91375, 'Coverage': 15.392499999999998, 'Popularity': 7.367559}
+
+'Precision': 16.89,20.46,22.99,24.54,25.11,25.04,24.81,
+'Recall': 8.11,9.83,11.04,11.78,12.06,12.03,11.91,
+'Coverage': 52.09,41.64,32.78,25.89,20.25,17.26,15.39,
